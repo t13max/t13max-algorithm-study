@@ -1,7 +1,8 @@
 package com.t13max.design.proxy.jdk;
 
-import com.atb.design.entity.Shape;
-import com.atb.design.entity.ShapeImpl;
+
+import com.t13max.design.entity.Shape;
+import com.t13max.design.entity.ShapeImpl;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

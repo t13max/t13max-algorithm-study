@@ -1,6 +1,6 @@
 package com.t13max.algorithm.graph.tree;
 
-import com.atb.utils.IndexMinPQ;
+import com.t13max.utils.IndexMinPQ;
 
 /**
  * Prim算法的即时实现

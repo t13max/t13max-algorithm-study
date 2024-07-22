@@ -1,6 +1,7 @@
 package com.t13max.algorithm.sort;
 
-import com.atb.utils.SortUtil;
+
+import com.t13max.utils.SortUtil;
 
 /**
  * 三项切分快速排序

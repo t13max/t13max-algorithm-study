@@ -1,6 +1,7 @@
 package com.t13max.algorithm.string;
 
-import com.atb.utils.Queue;
+
+import com.t13max.utils.Queue;
 
 /**
  * 基于单词查找树的符号表

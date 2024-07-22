@@ -1,6 +1,7 @@
 package com.t13max.algorithm.graph.undirected.cc;
 
-import com.atb.graph.undirected.Graph;
+
+import com.t13max.algorithm.graph.undirected.Graph;
 
 /**
  * 是否为二分图(双色问题)

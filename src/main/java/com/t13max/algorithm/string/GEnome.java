@@ -1,8 +1,9 @@
 package com.t13max.algorithm.string;
 
-import com.atb.utils.Alphabet;
-import com.atb.utils.BinaryStdIn;
-import com.atb.utils.BinaryStdOut;
+
+import com.t13max.utils.Alphabet;
+import com.t13max.utils.BinaryStdIn;
+import com.t13max.utils.BinaryStdOut;
 
 /**
  * DNA的压缩和展开

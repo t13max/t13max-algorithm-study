@@ -1,7 +1,8 @@
 package com.t13max.algorithm.string;
 
-import com.atb.utils.BinaryStdIn;
-import com.atb.utils.BinaryStdOut;
+
+import com.t13max.utils.BinaryStdIn;
+import com.t13max.utils.BinaryStdOut;
 
 /**
  * LZW算法的压缩

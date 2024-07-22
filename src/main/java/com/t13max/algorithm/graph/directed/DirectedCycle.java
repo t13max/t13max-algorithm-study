@@ -1,7 +1,7 @@
 package com.t13max.algorithm.graph.directed;
 
 
-import com.atb.utils.Stack;
+import com.t13max.utils.Stack;
 
 /**
  * 寻找有向环

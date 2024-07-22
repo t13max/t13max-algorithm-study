@@ -1,7 +1,8 @@
 package com.t13max.algorithm.graph.undirected;
 
-import com.atb.utils.StdIn;
-import com.atb.utils.StdOut;
+
+import com.t13max.utils.StdIn;
+import com.t13max.utils.StdOut;
 
 /**
  * 间隔的度数

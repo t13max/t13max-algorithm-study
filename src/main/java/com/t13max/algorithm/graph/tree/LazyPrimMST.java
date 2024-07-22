@@ -1,7 +1,8 @@
 package com.t13max.algorithm.graph.tree;
 
-import com.atb.utils.MinPQ;
-import com.atb.utils.Queue;
+
+import com.t13max.utils.MinPQ;
+import com.t13max.utils.Queue;
 
 /**
  * 最小生成树的Prim算法的延迟实现

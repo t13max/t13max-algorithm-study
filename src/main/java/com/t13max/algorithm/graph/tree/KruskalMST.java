@@ -1,8 +1,9 @@
 package com.t13max.algorithm.graph.tree;
 
-import com.atb.utils.MinPQ;
-import com.atb.utils.Queue;
-import com.atb.utils.UF;
+
+import com.t13max.utils.MinPQ;
+import com.t13max.utils.Queue;
+import com.t13max.utils.UF;
 
 import java.util.Iterator;
 

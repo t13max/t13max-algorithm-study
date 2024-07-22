@@ -1,7 +1,8 @@
 package com.t13max.algorithm.graph.sp;
 
-import com.atb.utils.StdIn;
-import com.atb.utils.StdOut;
+
+import com.t13max.utils.StdIn;
+import com.t13max.utils.StdOut;
 
 /**
  *
